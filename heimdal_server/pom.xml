@@ -17,8 +17,8 @@
 	<name>Heimdal Backend - Frontend</name>
 	
 	<modules>
-		<module>heimdal_backend</module>
 		<module>heimdal_frontend</module>
+		<module>heimdal_backend</module>
 	</modules>
 	
 </project>
