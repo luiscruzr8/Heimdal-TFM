@@ -276,3 +276,9 @@ fabric.properties
 !/gradle/wrapper/gradle-wrapper.jar
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,linux,flutter,androidstudio,visualstudiocode
+
+heimdal_app/android/app/google-services.json
+
+heimdal_app/ios/Runner/GoogleService-Info.plist
+
+heimdal_server/heimdal_backend/src/main/resources/firebase_config.json

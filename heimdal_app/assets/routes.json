@@ -1,0 +1,8 @@
+{
+    "routes": [
+        {
+            "route": "login",
+            "title": "Log in"
+        }
+    ]
+}
